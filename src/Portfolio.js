@@ -7,7 +7,7 @@ const Portfolio = () => {
       <div className="gallery">
         <div className="projects">
           <div className="box">
-            <a
+            <a className="inv"
               href="https://codingisfun190.github.io/EarthTribe/"
               target="_blank"
               rel="noreferrer"
@@ -20,7 +20,7 @@ const Portfolio = () => {
             </a>
           </div>
           <div className="box">
-            <a
+            <a className="inv"
               href="https://codingisfun190.github.io/Marvel_movies/"
               target="_blank"
               rel="noreferrer"
@@ -33,7 +33,7 @@ const Portfolio = () => {
             </a>
           </div>
           <div className="box">
-            <a
+            <a className="inv"
               href="https://codingisfun190.github.io/Dots_Project/"
               target="_blank"
               rel="noreferrer"
@@ -46,7 +46,7 @@ const Portfolio = () => {
             </a>
           </div>
           <div className="box">
-            <a
+            <a className="inv"
               href="https://codingisfun190.github.io/Website_Bookmarker/"
               target="_blank"
               rel="noreferrer"
@@ -59,7 +59,7 @@ const Portfolio = () => {
             </a>
           </div>
           <div className="box">
-            <a
+            <a className="inv"
               href="https://codingisfun190.github.io/Rock_Paper_Scissors/"
               target="_blank"
               rel="noreferrer"
@@ -72,7 +72,7 @@ const Portfolio = () => {
             </a>
           </div>
           <div className="box">
-            <a
+            <a className="inv"
               href="https://codingisfun190.github.io/hangman/"
               target="_blank"
               rel="noreferrer"
