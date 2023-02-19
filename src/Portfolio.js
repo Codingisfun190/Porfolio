@@ -58,18 +58,32 @@ const Portfolio = () => {
               />
             </a>
           </div>
-          <div className="box"><a
+          <div className="box">
+            <a
               href="https://codingisfun190.github.io/Rock_Paper_Scissors/"
               target="_blank"
               rel="noreferrer"
             >
               <img
                 className="img-fit"
-                src="/images/Dots-thumbnail.PNG"
+                src="/images/RPS-thumbnail.PNG"
                 alt="Rock Paper Scissors Project"
               />
-            </a></div>
-          <div className="box">sixth project</div>
+            </a>
+          </div>
+          <div className="box">
+            <a
+              href="https://codingisfun190.github.io/hangman/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                className="img-fit"
+                src="/images/Bookmarker-thumbnail.PNG"
+                alt="Hangman Project"
+              />
+            </a>
+          </div>
         </div>
       </div>
     </div>
