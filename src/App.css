@@ -23,9 +23,6 @@ h1 {
   flex-direction: row;
   justify-content: center;
 }
-.inv {
-  color:rgb(102, 112, 240)
-}
 
 .button {
   background-color:rgb(195, 184, 245);
@@ -76,13 +73,11 @@ h1 {
 }
 
 .container {
-
   display: flex;
   margin: 10px;
   width: 50vh;
   background-color: white;
   border-radius: 10px;
-  border: 1px black solid;
 }
 
 .skills {
