@@ -28,7 +28,7 @@ const Portfolio = () => {
               <img
                 className="img-fit"
                 src="/images/Marvel-thumbnail.PNG"
-                alt="EarthTribe Project"
+                alt="Marvel Movies Project"
               />
             </a>
           </div>
@@ -41,20 +41,20 @@ const Portfolio = () => {
               <img
                 className="img-fit"
                 src="/images/Dots-thumbnail.PNG"
-                alt="EarthTribe Project"
+                alt="Dots Project"
               />
             </a>
           </div>
           <div className="box">
             <a
-              href="https://codingisfun190.github.io/Dots_Project/"
+              href="https://codingisfun190.github.io/Website_Bookmarker/"
               target="_blank"
               rel="noreferrer"
             >
               <img
                 className="img-fit"
                 src="/images/Dots-thumbnail.PNG"
-                alt="EarthTribe Project"
+                alt="Website Bookmarker Project"
               />
             </a>
           </div>
