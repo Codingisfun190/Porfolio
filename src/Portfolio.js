@@ -53,12 +53,22 @@ const Portfolio = () => {
             >
               <img
                 className="img-fit"
-                src="/images/Dots-thumbnail.PNG"
+                src="/images/Bookmarker-thumbnail.PNG"
                 alt="Website Bookmarker Project"
               />
             </a>
           </div>
-          <div className="box">fifth project</div>
+          <div className="box"><a
+              href="https://codingisfun190.github.io/Rock_Paper_Scissors/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                className="img-fit"
+                src="/images/Dots-thumbnail.PNG"
+                alt="Rock Paper Scissors Project"
+              />
+            </a></div>
           <div className="box">sixth project</div>
         </div>
       </div>
