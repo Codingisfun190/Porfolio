@@ -79,7 +79,7 @@ const Portfolio = () => {
             >
               <img
                 className="img-fit"
-                src="/images/Bookmarker-thumbnail.PNG"
+                src="/images/Hangman-thumbnail.PNG"
                 alt="Hangman Project"
               />
             </a>
