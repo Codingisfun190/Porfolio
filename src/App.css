@@ -78,6 +78,7 @@ h1 {
   width: 50vh;
   background-color: white;
   border-radius: 10px;
+  border: 2px #000 solid
 }
 
 .skills {
