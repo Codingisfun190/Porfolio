@@ -7,7 +7,7 @@ import Skills from './Skills'
 import ContactMe from './ContactMe'
 
 function App() {
-  let [displayAboutMe, setDisplayAboutMe] = useState(false)
+  let [displayAboutMe, setDisplayAboutMe] = useState(true)
   let [displayExperience, setDisplayExperience] = useState(false)
   let [displaySkills, setDisplaySkills] = useState(false)
   let [displayPortfolio, setDisplayPorfolio] = useState(false)
